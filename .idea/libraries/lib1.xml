@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://D:/servlet/web/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://D:/servlet/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://D:/servlet/web/WEB-INF/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

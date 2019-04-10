@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Manager.iml" filepath="$PROJECT_DIR$/Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/mybatis.iml" filepath="$PROJECT_DIR$/../mybatis/mybatis.iml" />
+      <module fileurl="file://D:/servlet/servlet.iml" filepath="D:/servlet/servlet.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsp-api (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mybatis/web/WEB-INF/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
